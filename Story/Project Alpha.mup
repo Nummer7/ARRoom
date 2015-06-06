@@ -1,0 +1,178 @@
+{
+  "title": "Project Alpha",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Hauptcharakter",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "M/W oder unbestimmt",
+          "id": 5,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Jung oder Alt?",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Reise in die eigene Vergangenheit (also was so passiert)",
+              "id": 11
+            }
+          }
+        },
+        "3": {
+          "title": "Geist/Zombie/Vampir?",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Steuerbar?",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "Wie interargieren HC und NPC?",
+                  "id": 16
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Sprache",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "unterschied zu den NPC?",
+              "id": 18
+            },
+            "2": {
+              "title": "ist die Sprache echt.",
+              "id": 20
+            }
+          }
+        },
+        "5": {
+          "title": "Erinnerung verloren?",
+          "id": 22
+        },
+        "9": {
+          "title": "bbesondere Umstaende",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "besondere beziehung",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "Menschen (eventuell liebesbez.?)",
+                  "id": 36
+                },
+                "2": {
+                  "title": "Tieren?",
+                  "id": 37
+                },
+                "3": {
+                  "title": "Gegenstand e.g. Buecher",
+                  "id": 38
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "besondere Kraft",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "teleportation",
+                  "id": 31
+                },
+                "2": {
+                  "title": "staerke",
+                  "id": 32
+                },
+                "3": {
+                  "title": "gedanken lesen",
+                  "id": 33
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Krankheit?",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "dna^2",
+                  "id": 24
+                },
+                "2": {
+                  "title": "schwaches herz",
+                  "id": 25
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Technisches",
+      "id": 45,
+      "ideas": {
+        "1": {
+          "title": "Raum ",
+          "id": 43,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Waende werden durchsichtig wenn man ",
+              "id": 46
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Story",
+      "id": 41,
+      "ideas": {
+        "1": {
+          "title": "Vampir der zum Arzt geht",
+          "id": 27,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Kiemen im Land der Fische",
+          "id": 40,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "kann nicht lesen ist aber in der Bib, Bilderbuecher",
+          "id": 42,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "buecher in anderen sprachen?",
+      "id": 44
+    }
+  },
+  "links": []
+}

@@ -1,0 +1,11 @@
+The Garbage Collector
+- Typ ist prog (Garbage Collector), weis es aber nicht
+- warum wurde er geschickt? 
+warum hat er keine erinnerungen mehr?
+- andere Chars sind erinnerungen die in einem Sys einer Firma versuchen ihre Wuensche zu erfuellen 
+	Ne art Backup bzw. ein Transfer des Gehirns in eine Datenbank, aber das Gehirn ist zu komplex blabla deswegen wird nur ein Teil uebertragen)\
+- keiner weis wozu er/sie eigentlich da ist. aber alle machen sie was?
+- HC bringt sie alle um (nimmt ihnen die rechenzeit) am ende?
+- limit durch gezahltes geld
+- uebernahme des Servers durch Backups
+- Verbindung zum internet? 
